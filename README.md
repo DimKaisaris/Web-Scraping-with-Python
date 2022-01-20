@@ -18,8 +18,13 @@ In this folder there is some other python code i wrote during the process which 
 used to connect with tableau.
 
 ## SQLite
-The data was last updated at 19/1/2022. Take a look at the result as created automatic in Sqlite after I ran my python code!
+The data was last updated on 19/1/2022. Take a look at the result as created automatic in Sqlite after I ran my python code!
 
 ![shot35](images/Screenshot_35.png)
 
+Then i wrote some simple queries.
+
+![shot1](images/Screenshot_1.png)
+
+![shot2](images/Screenshot_2.pgn)
 
