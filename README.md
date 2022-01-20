@@ -20,6 +20,6 @@ used to connect with tableau.
 ## SQLite
 The data was last updated at 19/1/2022. Take a look at the result as created automatic in Sqlite after I ran my python code!
 
-![shot35](images/Screenshot35.png)
+![shot35](images/Screenshot_35.png)
 
 
