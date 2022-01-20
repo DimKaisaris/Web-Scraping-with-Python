@@ -17,4 +17,9 @@ programm called 'corona.py'. You can access it **[here](https://github.com/DimKa
 In this folder there is some other python code i wrote during the process which is part of corona.py , as well the sqlite files and an exported .csv  
 used to connect with tableau.
 
+## SQLite
+The data was last updated at 19/1/2022. Take a look at the result as created automatic in Sqlite after I ran my python code!
+
+![shot35](images/Screenshot35.png)
+
 
