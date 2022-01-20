@@ -26,5 +26,5 @@ Then i wrote some simple queries.
 
 ![shot1](images/Screenshot_1.png)
 
-![shot2](images/Screenshot_2.pgn)
+![shot2](images/Screenshot_2.png)
 
