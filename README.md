@@ -9,7 +9,7 @@ Stored the data in DB Browser (SQLite) and then I imported them in Tableau to ma
 Tools: Python,SQlite,Tableau,Atom
 
 ## Python Coding
-Libraries used: BeautifoulSoup,Re,Urllib,Sqlite
+Libraries used: BeautifoulSoup,Re,Urllib,Sqlite /n
 Ok, so I used urllib to connect with the site and Beautifulsoup to parse the html and target the tags
 containing the information. Then, I used Regular Expression to extract the strings inside the tags. Finally,
 I used sqlite lib and wrote some code to create SQL tables and a for loop to insert the data in SQLite. The 
