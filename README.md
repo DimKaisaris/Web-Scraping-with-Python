@@ -32,5 +32,11 @@ Finally I saved tha data in .csv format to connect with Tableau, beacuse at the 
 doesnt support sqlite files.  
 You can access the sql table, queries and csv file using the same folder used for the python code above!
 
+## Tableau
+After I imported the data in Tableau, i made a nice viz! 
+If you wish, visit my profile and click on CoronaData to check it out! https://public.tableau.com/app/profile/dimitris.kaisaris4695
+
+![shot3](images/Screenshot_3.png)
+
 
 
