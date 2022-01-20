@@ -22,9 +22,15 @@ The data was last updated on 19/1/2022. Take a look at the result as created aut
 
 ![shot35](images/Screenshot_35.png)
 
-Then i wrote some simple queries.
+Then I ran some simple queries.
 
 ![shot1](images/Screenshot_1.png)
 
 ![shot2](images/Screenshot_2.png)
+
+Finally I saved tha data in .csv format to connect with Tableau, beacuse at the moment Tableau public  
+doesnt support sqlite files.  
+You can access the sql table, queries and csv file using the same folder used for the python code above!
+
+
 
