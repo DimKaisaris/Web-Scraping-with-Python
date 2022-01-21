@@ -42,6 +42,6 @@ If you wish, visit my profile and click on CoronaData to check it out! https://p
 ### Warning :  
 The python code works only with the specific website as it targets specific parts inside the html,  
 to use it in similar sites it will need only some changes in the for loop in regards of the tag's location.  
-If you need any help contact me!
+
 
 
