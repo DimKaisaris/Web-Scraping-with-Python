@@ -6,7 +6,7 @@ The project is about corona virus around the globe.
 I wrote some cool python code to access the data from https://coronavirus.jhu.edu/data/mortality .   
 Stored the data in DB Browser (SQLite) and then I imported them in Tableau to make a nice Viz!
 
-Tools: Python,SQlite,Tableau,Atom
+Tools: Python,SQlite,Tableau,PowerBI
 
 ## Python Coding
 Libraries used: BeautifulSoup,Re,Urllib,Sqlite.       
@@ -39,7 +39,7 @@ If you wish, visit my profile and click on CoronaData to check it out! [link](ht
 ![shot3](images/Screenshot_3.png)
 
 
-## PowerBi
+## PowerBI
 Finally, I imported the data in PowerBI and build a report, containing a map,  
 table data and some slcers. Check the pbix [file](https://github.com/DimKaisaris/Web-Scraping-with-Python/blob/main/images/PBImap.pbix)
 
