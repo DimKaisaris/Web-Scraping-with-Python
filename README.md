@@ -43,7 +43,7 @@ If you wish, visit my profile and click on CoronaData to check it out! [link](ht
 Finally, I imported the data in PowerBI and build a report, containing a map,  
 table data and some slcers. Check the pbix [file](https://github.com/DimKaisaris/Web-Scraping-with-Python/blob/main/images/PBImap.pbix)
 
-![shot36](images/Screenshot_35.png)
+![shot36](images/Screenshot_36.png)
   
 
 
