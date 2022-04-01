@@ -39,9 +39,12 @@ If you wish, visit my profile and click on CoronaData to check it out! [link](ht
 ![shot3](images/Screenshot_3.png)
 
 
-### Warning :  
-The python code works only with the specific website as it targets specific parts inside the html,  
-to use it in similar sites it will need  some changes in the for loop in regards of the tag's location.  
+## PowerBi
+Finally, I imported the data in PowerBI and build a report, containing a map,  
+table data and some slcers. Check the pbix [file](https://github.com/DimKaisaris/Web-Scraping-with-Python/blob/main/images/PBImap.pbix)
+
+![shot36](images/Screenshot_35.png)
+  
 
 
 
