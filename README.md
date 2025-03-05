@@ -2,11 +2,9 @@
 ## Global COVID-19 Data
 
 ## Project overview
-This project focuses on gathering global COVID-19 data. I developed Python scripts to scrape data from the  
-Johns Hopkins University Coronavirus Resource Center (https://coronavirus.jhu.edu/data/mortality).  
-The scraped data was then stored in a SQLite database, and finally visualized using Tableau.
+This project focuses on gathering global COVID-19 data. I developed Python scripts to scrape data from the Johns Hopkins University Coronavirus Resource Center (https://coronavirus.jhu.edu/data/mortality). The scraped data was then stored in a SQLite database, and finally visualized using Tableau.
 
-Tools: Python,SQlite,Tableau,PowerBI
+Tools Used: Python, SQLite, Tableau, and Power BI
 
 ## Python Coding
 Libraries used: BeautifulSoup,Re,Urllib,Sqlite.       
