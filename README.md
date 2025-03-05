@@ -20,7 +20,7 @@ The SQLite database files generated during the process.
 A CSV file exported from the SQLite database, used for data visualization in Tableau.
 
 ## SQLite
-The data was last updated on 19/1/2022. Take a look at the result as created automatic in Sqlite after I ran my python code!
+The data was last updated on January 19, 2022. Here's a look at the resulting tables created automatically in SQLite after running the Python script.
 
 ![shot35](images/Screenshot_35.png)
 
@@ -35,15 +35,14 @@ doesnt support sqlite files.
 You can access the sql table, queries and csv file using the same folder used for the python code above!
 
 ## Tableau
-After I imported the data in Tableau, i made a nice viz! 
-If you wish, visit my profile and click on CoronaData to check it out! [link](https://public.tableau.com/app/profile/dimitris.kaisaris4695)
+Finally, I saved the data in CSV format for use with Tableau. Currently, Tableau Public does not support direct connections to SQLite files. You can find the SQL tables, queries, and the CSV file within the same folder as the Python code.  
+[link](https://public.tableau.com/app/profile/dimitris.kaisaris4695)
 
 ![shot3](images/Screenshot_3.png)
 
 
 ## PowerBI
-Finally, I imported the data in PowerBI and build a report, containing a map,  
-table data and some slicers. Check the pbix **[file](https://github.com/DimKaisaris/Web-Scraping-with-Python/blob/main/images/PBImap.pbix)**
+Finally, I imported the data into Power BI and created a report featuring a map, detailed tables, and interactive slicers. You can find the Power BI report file (pbix) here:  **[file](https://github.com/DimKaisaris/Web-Scraping-with-Python/blob/main/images/PBImap.pbix)**
 
 ![shot36](images/Screenshot_36.png)
   
