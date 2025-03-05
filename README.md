@@ -6,14 +6,18 @@ This project focuses on gathering global COVID-19 data. I developed Python scrip
 
 Tools Used: Python, SQLite, Tableau, and Power BI
 
-## Python Coding
-Libraries used: BeautifulSoup,Re,Urllib,Sqlite.       
-Ok, so I used urllib to connect with the site and Beautifulsoup to parse the html and target the tags
-containing the information. Then, I used Regular Expression to extract the strings inside the tags. Finally,
-I used sqlite lib and wrote some code to create SQL tables and a for loop to insert the data in SQLite. The 
-programm called 'corona.py'. You can access it **[here](https://github.com/DimKaisaris/Web-Scraping-with-Python/tree/main/Python%20Code)**
-In this folder there is some other python code which I wrote during the process which is part of corona.py , as well the sqlite files and an exported .csv  
-used to connect with tableau.
+## Python Code
+Libraries: BeautifulSoup, Re, Urllib, Sqlite3.  
+The process involved the following steps:  
+1. Website Connection: urllib.request was used to establish a connection to the target website.
+2. HTML Parsing: BeautifulSoup was used to parse the HTML content, allowing for the identification and targeting of specific HTML tags containing the desired data.
+3. Data Extraction: Regular expressions (re) were used to extract the relevant text strings from within the targeted HTML tags.
+4. Database Integration: The sqlite3 library was used to create SQLite database tables. A for loop was implemented to iterate through the extracted data and insert it into the database.
+The main Python script, corona.py, can be found **[here](https://github.com/DimKaisaris/Web-Scraping-with-Python/tree/main/Python%20Code)**.
+The Python Code folder also contains:
+Additional Python scripts developed during the project, which were incorporated into the final corona.py script.
+The SQLite database files generated during the process.
+A CSV file exported from the SQLite database, used for data visualization in Tableau.
 
 ## SQLite
 The data was last updated on 19/1/2022. Take a look at the result as created automatic in Sqlite after I ran my python code!
