@@ -1,10 +1,10 @@
 # Web-Scraping-with-Python
-## Global data for Corona Virus
+## Global COVID-19 Data
 
 ## Project overview
-The project is about corona virus around the globe.  
-I wrote some cool python code to access the data from https://coronavirus.jhu.edu/data/mortality .   
-Stored the data in DB Browser (SQLite) and then I imported them in Tableau to make a nice Viz!
+This project focuses on gathering global COVID-19 data. I developed Python scripts to scrape data from the  
+Johns Hopkins University Coronavirus Resource Center (https://coronavirus.jhu.edu/data/mortality).  
+The scraped data was then stored in a SQLite database, and finally visualized using Tableau.
 
 Tools: Python,SQlite,Tableau,PowerBI
 
