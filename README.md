@@ -30,7 +30,7 @@ Then I ran some simple queries.
 
 ![shot2](images/Screenshot_2.png)
 
-Finally I saved tha data in .csv format to connect with Tableau, beacuse at the moment Tableau public  
+I saved tha data in .csv format to connect with Tableau, beacuse at the moment Tableau public  
 doesnt support sqlite files.  
 You can access the sql table, queries and csv file using the same folder used for the python code above!
 
